@@ -1,6 +1,7 @@
 {
   "src": [
     "pages/Index",
-    "pages/utils/PhotoUtilPage"
+    "pages/utils/PhotoUtilPage",
+    "pages/utils/ScanUtilPage"
   ]
 }

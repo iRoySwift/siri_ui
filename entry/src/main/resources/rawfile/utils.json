@@ -2,5 +2,9 @@
   {
     "name": "相册工具",
     "url": "pages/utils/PhotoUtilPage"
+  },
+  {
+    "name": "扫一扫工具",
+    "url": "pages/utils/ScanUtilPage"
   }
 ]

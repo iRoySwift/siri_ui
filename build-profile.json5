@@ -7,11 +7,11 @@
         "material": {
           "certpath": "/Users/roy/.ohos/config/default_neusiri_ui_2WpdYOd-9X4W9Put-ozGNIFz3ybDRsWpUT9AkSLrzFM=.cer",
           "keyAlias": "debugKey",
-          "keyPassword": "0000001A54CC902B512A72D891BC01D6363B397269B3AB3CB00F9F83E4E1E35297F28ECFC112124B20E6",
+          "keyPassword": "0000001A588A1241EF52B9DC561D60C03D3BD70DC74F7591705DA1F52435A9CF5B5FE37834D94DA725EB",
           "profile": "/Users/roy/.ohos/config/default_neusiri_ui_2WpdYOd-9X4W9Put-ozGNIFz3ybDRsWpUT9AkSLrzFM=.p7b",
           "signAlg": "SHA256withECDSA",
           "storeFile": "/Users/roy/.ohos/config/default_neusiri_ui_2WpdYOd-9X4W9Put-ozGNIFz3ybDRsWpUT9AkSLrzFM=.p12",
-          "storePassword": "0000001A85B9BCE73F551824A794595BBCE6141C279D0B326F9B346839C33DEEFA35343FD4F445728275"
+          "storePassword": "0000001AEEF9287EB08EB2239387D0F1227FD80A0DDEA2FA70DD7A445A468F19D172287B7E4075E65956"
         }
       }
     ],

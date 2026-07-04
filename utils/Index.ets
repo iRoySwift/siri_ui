@@ -1,3 +1,5 @@
+export { WindowUtil } from './src/main/ets/WindowUtil'
+
 export { ImageUtil } from './src/main/ets/ImageUtil'
 
 export { ToastUtil } from './src/main/ets/ToastUtil'

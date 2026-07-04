@@ -31,6 +31,14 @@ export class AppUtil {
   }
 
   /**
+   * 获取最上层 窗口
+   * @returns
+   */
+  static async getLastWindow(): Promise<window.Window> {
+    return await window.getLastWindow(getContext())
+  }
+
+  /**
    * 获取context 页面上下文 common.UIAbilityContex
    * @returns
    */

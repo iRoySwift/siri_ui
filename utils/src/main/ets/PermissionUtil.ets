@@ -25,7 +25,7 @@ export class PermissionUtil {
     } catch (error) {
       let err: BusinessError = error as BusinessError;
       Logger.error(TAG, `createBarcode failed code: ${err.code}, message: ${err.message}`)
-      return Promise.reject(error)
+      return Promise.resolve(false)
     }
   }
 
@@ -47,7 +47,7 @@ export class PermissionUtil {
     } catch (error) {
       let err: BusinessError = error as BusinessError;
       Logger.error(TAG, `createBarcode failed code: ${err.code}, message: ${err.message}`)
-      return Promise.reject(error)
+      return Promise.resolve(false)
     }
   }
 
